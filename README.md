@@ -51,10 +51,10 @@ Clouds - {"all":40}
 Installation
 
 1. Create a folder with name node-weather on drive
-3. Make sure you have npm and node server installed
-2. Clone then given repo
-3. Download necessary packages if missing
-4. Run the project from command line from same folder where repo is cloned.
+2. Make sure you have npm and node server installed
+3. Clone then given repo
+4. Download necessary packages if missing
+5. Run the project from command line from same folder where repo is cloned
 
    $ node ./weather.js -c London,Mumbai,Sydney,Tokyo
 
