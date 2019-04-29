@@ -55,4 +55,5 @@ Installation
 2. Clone then given repo
 3. Download necessary packages if missing
 4. Run the project from command line from same folder where repo is cloned.
+
    $ node ./weather.js -c London,Mumbai,Sydney,Tokyo
