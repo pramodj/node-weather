@@ -1,0 +1,18 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pramod Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "country-timezone": "^1.0.6",
+    "moment-timezone": "^0.5.25",
+    "openweather-node": "0.0.4",
+    "request": "^2.88.0",
+    "yargs": "^13.2.2"
+  }
+}
