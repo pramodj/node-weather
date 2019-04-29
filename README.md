@@ -57,3 +57,9 @@ Installation
 4. Run the project from command line from same folder where repo is cloned.
 
    $ node ./weather.js -c London,Mumbai,Sydney,Tokyo
+
+NPM package dependencies:
+1. Openweather-Node
+2. yargs
+3. country-timezone
+4. moment-timezone
